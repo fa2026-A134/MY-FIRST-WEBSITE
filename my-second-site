@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>سایت من</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <h1>🚀 سایت من</h1>
+        <p>اولین سایت من با HTML و CSS</p>
+        <button>شروع</button>
+    </div>
+
+</body>
+</html>
